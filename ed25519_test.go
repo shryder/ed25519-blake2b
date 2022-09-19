@@ -8,7 +8,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/Shryder/ed25519-blake2b/edwards25519"
+	"github.com/shryder/ed25519-blake2b/edwards25519"
 )
 
 type zeroReader struct{}

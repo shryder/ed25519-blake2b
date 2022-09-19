@@ -1,4 +1,4 @@
-module github.com/Shryder/ed25519-blake2b
+module github.com/shryder/ed25519-blake2b
 
 go 1.19
 
